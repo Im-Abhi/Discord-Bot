@@ -14,3 +14,4 @@ To run the file type this command `node index.js`
 
 ### Current Commands List 
 1. ping
+2. beep
